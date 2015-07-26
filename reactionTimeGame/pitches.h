@@ -10,7 +10,7 @@
  modified 30 Aug 2011
  by Tom Igoe
 
-This example code is in the public domain.
+This example code is in the pNOTE_G2ublic domain.
 
  http://arduino.cc/en/Tutorial/Tone
 
